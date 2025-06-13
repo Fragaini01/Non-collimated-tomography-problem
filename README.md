@@ -49,6 +49,9 @@ Generates four plots to visualize the forward model:
 
 Requires the relevant input files to be provided.
 
+### Functions.jl
+Provides the functions necessary for the other codes
+
 -------------------------------------------------------------------------------
 
 ## Inverse Problem
